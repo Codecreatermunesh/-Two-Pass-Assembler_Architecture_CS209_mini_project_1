@@ -1,0 +1,26 @@
+
+
+ldc 0
+add
+sub
+a: ldc 
+b: add
+a:
+main:
+pass 2 
+Fetch every instrcution of the vector 
+ldc 0 
+Fetch opcode : 0 :- HEXA 0x00
+operand : 
+   1: label  : Find the value of PC of this label from the labels vector 
+            If label is found inside the labels vector then OK 
+            But if not found than throws error that no such label exist 
+   2: decimal : Convert to hexa 
+
+  3: HEXA
+And then combines OPcode and Operand To proiduce machine code 
+
+a: ldl 4
+a: SET 24
+
+ldc a  -> ldc 24

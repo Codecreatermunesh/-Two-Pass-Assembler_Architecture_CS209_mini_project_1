@@ -1,0 +1,24 @@
+Below are the label names and values :
+air => 8
+arjun => 9
+l2 => 10
+l4 => 5
+label1 => 0
+label2 => 1
+label3 => 7
+ldc => 2
+loop => 12
+loop1 => 13
+
+Below are the label names and values which have been used:
+
+Warnings: 
+Line 0 : Unused Label
+
+Errors: 
+Line 0 : No such Label
+Line 8 : There isn't  any such instruction 
+Line 9 : There isn't  any such instruction 
+Line 11 : Error! This operand allows one operation only
+Line 13 : Error! There must be an operand.
+Line 17 : There isn't  any such instruction 

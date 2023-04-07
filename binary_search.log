@@ -1,0 +1,22 @@
+Below are the label names and values :
+EXIT => 43
+FOUND => 40
+INC_START => 35
+LOOP => 11
+array => 49
+main => 4
+n => 48
+searched_index => 60
+value => 47
+
+Below are the label names and values which have been used:
+EXIT
+main
+n
+
+Warnings: 
+Line 0 : Unused Label
+
+Errors: 
+Line 17 : There isn't  any such instruction 
+Line 24 : There isn't  any such instruction 

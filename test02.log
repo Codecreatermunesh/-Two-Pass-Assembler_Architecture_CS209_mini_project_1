@@ -1,0 +1,17 @@
+Below are the label names and values :
+label => 0
+
+Below are the label names and values which have been used:
+
+Warnings: 
+Line 0 : Unused Label
+
+Errors: 
+Line 0 : No such Label
+Line 4 : Error!Duplicate labels aren't allowed .
+Line 7 : Error! There must be an operand.
+Line 8 : Error! No operands are allowed for this operand.
+Line 9 : Error! This operand allows one operation only
+Line 10 : Error! Invalid label name  [alphanumeric, starting value can only be letters] .
+Line 11 : There isn't  any such instruction 
+Line 12 : There isn't  any such instruction 
